@@ -11,5 +11,5 @@
         android:layout_width="233dp"
         android:layout_height="120dp"
         android:textSize="50dp"
-        android:text="TextView1341341413413413143141" />
+        android:text="TextView13411341" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
